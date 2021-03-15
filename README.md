@@ -13,7 +13,7 @@ Link to project: https://juel07.github.io/unit-converter/
 
 ### Demo
 
-<img src="" height="350px" alt="demo gif"/>
+<img src="unit-converter.gif" height="350px"/>
 
 ### Technologies
 
