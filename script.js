@@ -32,6 +32,11 @@ function unitConverter() {
     output.value = kg.toFixed(2);
   }
   
+  else if (inputUnitValue ==== "Ounces to Grams") {
+    let gm = input.value * 28.35;
+    output.value = gm.toFixed(3);
+  }
+  
   else if (inputUnitValue === "Gallons to Litres") {
     let gallon = input.value * 0.22;
     output.value = gallon.toFixed(2);
