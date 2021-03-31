@@ -32,7 +32,7 @@ function unitConverter() {
     output.value = kg.toFixed(2);
   }
   
-  else if (inputUnitValue ==== "Ounces to Grams") {
+  else if (inputUnitValue === "Ounces to Grams") {
     let gm = input.value * 28.35;
     output.value = gm.toFixed(3);
   }
