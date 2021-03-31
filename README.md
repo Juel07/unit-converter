@@ -4,6 +4,7 @@ Convert imperial units to their metric equivalent. User can select type of unit 
 
 - Fahrenheit to celcius
 - Pounds to kilograms
+- Ounces to Grams
 - Miles to kilometers
 - Gallons to litres
 
